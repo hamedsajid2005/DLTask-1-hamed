@@ -32,6 +32,9 @@ python todo_list.py
 2. Select "View Tasks" to display all saved tasks.
 3. Select "Show Total Tasks" to see the number of tasks.
 4. Select "Exit" to close the application.
+   
+## Output
+<img width="153" height="449" alt="image" src="https://github.com/user-attachments/assets/4cef7911-b356-4b04-a796-bf83d32a2256" />
 
 ## Author
 
